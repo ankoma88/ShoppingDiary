@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ankoma88/AndroidStudioProjects/ShoppingDiary/ShoppingDiary/app/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="viewPager" type="id"/>
+    <!-- From: file:/home/ankoma88/AndroidStudioProjects/ShoppingDiary/ShoppingDiary/app/src/main/res/values/refs.xml -->
+    <eat-comment/>
+    <item name="activity_masterdetail" type="layout">@layout/activity_fragment</item>
+    <!-- From: file:/home/ankoma88/AndroidStudioProjects/ShoppingDiary/ShoppingDiary/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="addProductBtn">Add</string>
+    <string name="app_name">ShoppingDiary</string>
+    <string name="date_picker_title">Date of purchase:</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="new_product">New Product</string>
+    <string name="product_comment">Enter comment or description</string>
+    <string name="product_comment_label">Comment</string>
+    <string name="product_details_label">Details</string>
+    <string name="product_name_hint">Enter product name</string>
+    <string name="product_name_label">Product</string>
+    <string name="product_purchased_label">Purchased?</string>
+    <string name="products_title">Products List</string>
+    <string name="scanner">Bar Code</string>
+    <string name="take">*</string>
+    <!-- From: file:/home/ankoma88/AndroidStudioProjects/ShoppingDiary/ShoppingDiary/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

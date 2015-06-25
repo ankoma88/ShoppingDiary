@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/menu_item_delete_product"
+    android:icon="@android:drawable/ic_menu_delete"
+    android:title="@string/delete_product"/>
+</menu>
+<!-- From: file:/home/ankoma88/AndroidStudioProjects/ShoppingDiary/ShoppingDiary/app/src/main/res/menu/product_list_item_context.xml -->
